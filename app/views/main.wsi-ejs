@@ -1,4 +1,4 @@
-<!-- views/index.ejs -->
+<!-- views/index.wsi-ejs -->
 <!doctype html>
 <html>
 <head>
@@ -12,16 +12,9 @@
 <body>
 <div class="container">
 
-    <div class="jumbotron text-center">
-        <h1><span class="fa fa-lock"></span>Node Example Web App</h1>
-
-    </div>
+    <!-- content -->
+    <% include contentView %>
 
 </div>
 </body>
 </html>
- 
- 
- 
- 
- 

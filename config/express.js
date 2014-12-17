@@ -39,7 +39,7 @@ module.exports = function() {
 
 	// Set the application view engine and 'views' folder
 	app.set('views', './app/views');
-	app.set('view engine', 'ejs');
+	app.set('view engine', 'wsi-ejs');
 
 	// Configure the flash messages middleware
 	app.use(flash());

@@ -1,0 +1,11 @@
+<!-- views/index.ejs -->
+
+    <div class="jumbotron text-center">
+        <h1><span class="fa fa-lock"></span>Node Example Web App (index)</h1>
+
+    </div>
+
+
+ 
+ 
+ 
